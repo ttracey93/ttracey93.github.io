@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tyler Tracey</title>
+		<description>Developer and EDM Producer</description>
+		<link>/</link>
+		<atom:link href="/" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>An Introduction To My Mind</title>
+				<description>&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;I’m finding it more difficult to write this post than I expected. I spent so much time
+setting up this blog in the initial days of its creation that I didn’t put much thought
+into the actual words I would be sharing.&lt;/p&gt;
+
+&lt;h3 id=&quot;writers-guilt&quot;&gt;Writer’s Guilt&lt;/h3&gt;
+</description>
+				<pubDate>Wed, 28 Sep 2016 00:00:00 -0400</pubDate>
+				<link>/general/welcome/intro/2016/09/28/my-name-is-tyler.html</link>
+				<guid isPermaLink="true">/general/welcome/intro/2016/09/28/my-name-is-tyler.html</guid>
+			</item>
+		
+	</channel>
+</rss>

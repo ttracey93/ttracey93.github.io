@@ -1,0 +1,41 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
+markdown: kramdown
+disqus: ttracey
+google_analytics: tylertracey
+title: Tyler Tracey
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Tyler Tracey
+
+description: Developer and EDM Producer
+author:
+  name: Tyler "Dubforce" Tracey
+  email: tylertracey09@gmail.com
+  github: ttracey93
+  twitter: dubforced
+  linkedin: tyler-tracey-307a128a
+  soundcloud: dubforced
+  bio: Software Engineer and Aspiring EDM Producer
+  email_md5: 377bc753bf528a5e23f945e22ddb5e77
+
+# rss_path: feed.xml
+about_path: about.html
+categories_path: categories.html
+tags_path: tags.html
+
+# set it as url of an image
+sidebar_background_image: /assets/media/background.jpg
+
+BASE_PATH:
+
+gems:
+  - jekyll-paginate
